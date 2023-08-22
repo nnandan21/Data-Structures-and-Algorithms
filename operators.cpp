@@ -1,3 +1,5 @@
+//usage of unary operator
+
 #include<iostream>
 using namespace std;
 int main(){
