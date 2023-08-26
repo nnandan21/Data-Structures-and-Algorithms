@@ -28,5 +28,5 @@ Each topic folder contains detailed explanations, code implementations, and exam
 Check out the "Challenges" folder to test your skills with various coding challenges.
 If you have ideas for improvement or want to contribute, please follow the guidelines in the "Contribution" section.
 <br>
-🙏 Acknowledgments:
+<h2>🙏 Acknowledgments:</h2>
 A huge shoutout to all the contributors who have helped shape this repository into what it is today. Your dedication to spreading knowledge is truly inspiring.
